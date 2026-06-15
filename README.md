@@ -1,2 +1,2 @@
-# fashion-elasticity-engine
-Fashion E-Commerce Price Elasticity & Lifecycle Engine
+# Fashion Elasticity Engine
+This is a Fashion E-Commerce Price Elasticity & Lifecycle Plan
