@@ -161,13 +161,7 @@ This project demonstrates skills relevant to technology consulting, business ana
 ## Future Improvements
 
 Potential next iterations:
-
-- Rename `projected_margin_lift_pct` to `projected_revenue_lift_pct` unless cost-of-goods data is added.
-- Replace simulated weekly price history with real historical markdown events if available.
-- Add product cost, gross margin, and inventory-on-hand fields.
-- Add seasonality and product lifecycle stage features.
 - Create a Streamlit or web app interface for scenario testing.
-- Publish Power BI dashboard screenshots or a PDF export in the repository.
 
 ## Resume Summary
 
