@@ -166,3 +166,5 @@ Potential next iterations:
 ## Resume Summary
 
 Built a retail markdown optimization engine using Python, SQL, PostgreSQL, and Power BI concepts to estimate SKU-level price elasticity, identify slow-moving apparel inventory, and recommend markdown actions based on projected revenue impact and sell-through urgency.
+
+Designed an executive Power BI dashboard for markdown decisioning, visualizing SKU urgency, recommended discounts, projected revenue lift, and category-level elasticity trends to support retail pricing strategy
