@@ -1,4 +1,4 @@
-# Fashion Elasticity Engine
+# Retail Markdown Decision Engine
 
 A retail pricing analytics and markdown decision-support project that estimates SKU-level price elasticity, identifies slow-moving inventory, and recommends markdown actions for apparel products.
 
