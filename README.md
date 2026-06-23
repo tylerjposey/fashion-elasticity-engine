@@ -27,6 +27,28 @@ The Fashion Elasticity Engine builds a structured analytics workflow that:
 6. Loads outputs into PostgreSQL tables for reporting.
 7. Defines a Power BI dashboard for executive and SKU-level decisioning.
 
+## Dashboard Preview
+
+The Power BI dashboard translates the markdown engine outputs into an executive and category-manager decision tool.
+
+### Executive Overview
+
+![Executive Overview](images/executive_overview.png)
+
+This page summarizes projected markdown revenue, recommended discount depth, urgent SKU count, category-level opportunity, and recommendation mix.
+
+### SKU Action Center
+
+![SKU Action Center](images/sku_action_center.png)
+
+This page provides the SKU-level action list, including urgency flag, elasticity score, current price, recommended price, projected revenue, and recommended discount.
+
+### Elasticity Analysis
+
+![Elasticity Analysis](images/elasticity_analysis.png)
+
+This page explains model behavior across categories, including average elasticity, current vs. recommended prices, revenue trends, and sales velocity.
+
 ## Important Data Note
 
 The project uses H&M-style product and transaction data as the base apparel dataset. Because the source data does not provide a complete historical markdown event table, the weekly pricing history is **simulated** using seeded price variation and category-level elasticity assumptions.
